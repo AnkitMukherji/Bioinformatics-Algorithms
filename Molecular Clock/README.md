@@ -51,3 +51,7 @@ The <b><i>motifs_to_find_molecular_clocks_problems.ipynb</i></b> notebook applie
 *   Calculating entropy for motifs such as those associated with <b>NF-κB</b>.
 *   Solving the <b>Median String Problem</b> to find the most representative k-mer in a set of sequences.
 *   Comparing <b>Greedy</b>, <b>Randomized</b>, and <b>Gibbs Sampling</b> approaches for motif discovery.
+
+## Notebook
+
+[motifs_to_find_molecular_clocks_problems.ipynb](motifs_to_find_molecular_clocks_problems.ipynb) contains the worked exercises. Works through motif enumeration, profile and entropy calculations, and deterministic and randomized motif searches. Open it from a working directory that resolves the exercise input files referenced in its cells.

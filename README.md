@@ -2,6 +2,12 @@
 
 Python notebook implementations of core bioinformatics algorithms, organized around biological questions: locating replication origins, discovering regulatory motifs, and assembling genomes.
 
+## Folder guides
+
+- [Assembling Genomes](Assembling%20Genomes/README.md)
+- [Molecular Clock](Molecular%20Clock/README.md)
+- [Origin of Replication](Origin%20of%20Replication/README.md)
+
 ## Explore the collection
 
 | Biological question | Methods and notebooks |

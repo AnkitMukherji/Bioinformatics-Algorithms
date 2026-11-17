@@ -61,3 +61,7 @@ The <b><i>replication_ori_problems.ipynb</i></b> notebook contains implementatio
 *   Generating skew diagrams for <b><i>E. coli</i></b> and <b><i>Salmonella enterica</i></b> to locate <i>oriC</i>.
 *   Solving the <b>Minimum Skew Problem</b> to identify potential replication origins.
 *   Finding approximate matches and frequent words with mismatches in genomic sequences.
+
+## Notebook
+
+[replication_ori_problems.ipynb](replication_ori_problems.ipynb) contains the worked exercises. Uses k-mer search, mismatch counts, reverse complements, clumps and skew to explore replication-origin signals. Open it from a working directory that resolves the exercise input files referenced in its cells.
